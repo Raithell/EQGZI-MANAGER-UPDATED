@@ -1,0 +1,5 @@
+[03/07/25 14:58:36] Loading UI
+[03/07/25 14:58:37] Loading zone EQG from 'D:/EQGZI/zones/test/out/test.eqg'
+[03/07/25 14:58:50] Loading zone EQG from 'C:\Users\saive\Documents\Raithels Server\qey2hh1.s3d'
+[03/07/25 14:58:55] Writing gui/settings.lua
+[03/07/25 16:33:43] Shutting down cleanly

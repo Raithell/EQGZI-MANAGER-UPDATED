@@ -1,0 +1,50 @@
+[Info][02/19/25 21:50:07] Attempting to build map for zone: D:\EQGZI\zones\home\out\home
+[Trace][02/19/25 21:50:07] Attempting to load D:\EQGZI\zones\home\out\home.eqg as a standard eqg.
+[Trace][02/19/25 21:50:07] Parsing zone file.
+[Trace][02/19/25 21:50:07] Parsing zone models.
+[Trace][02/19/25 21:50:07] Loading zone models.
+[Trace][02/19/25 21:50:07] Loading model home.ter.
+[Trace][02/19/25 21:50:07] Parsing model materials.
+[Trace][02/19/25 21:50:07] Parsing model geometry.
+[Trace][02/19/25 21:50:07] Loading model interior.mod.
+[Trace][02/19/25 21:50:07] Parsing model materials.
+[Trace][02/19/25 21:50:07] Parsing model geometry.
+[Trace][02/19/25 21:50:07] Loading model mapletree.mod.
+[Trace][02/19/25 21:50:07] Parsing model materials.
+[Trace][02/19/25 21:50:07] Parsing model geometry.
+[Trace][02/19/25 21:50:07] Loading model pinetree.mod.
+[Trace][02/19/25 21:50:07] Parsing model materials.
+[Trace][02/19/25 21:50:07] Parsing model geometry.
+[Trace][02/19/25 21:50:07] Parsing zone placeables.
+[Trace][02/19/25 21:50:07] Parsing zone regions.
+[Trace][02/19/25 21:50:07] Parsing zone lights.
+[Trace][02/19/25 21:50:07] Adding placeable interior.mod at (-0.000000, 0.000000, -28.441700)
+[Trace][02/19/25 21:50:07] Adding placeable interior.mod at (-285.804108, 0.000000, -28.865400)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (-0.000000, 386.563385, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (341.694885, 387.811493, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (341.694885, -362.398712, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (-334.153412, -362.571899, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (341.694885, 387.811493, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (341.694885, 164.225204, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (371.058502, -192.723206, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (371.058502, -104.578400, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (217.854095, -370.552002, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (-197.627304, -362.398712, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (-380.827698, 156.457993, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (-368.729095, 387.811493, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (-380.827698, -114.994797, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable mapletree.mod at (-380.827698, 232.663696, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (381.081299, 0.000000, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (-379.534607, 0.000000, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (-379.534607, -221.375107, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (-379.534607, 307.331909, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (69.506104, -364.111206, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (-147.785294, 368.933105, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (381.081299, 286.518707, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (381.081299, -268.308289, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (-83.999603, -364.111206, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (371.613495, 57.168999, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (153.427994, 386.888794, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (-258.967712, 386.888794, 0.000000)
+[Trace][02/19/25 21:50:07] Adding placeable pinetree.mod at (-379.534607, 79.601799, 0.000000)
+[Info][02/19/25 21:50:07] Wrote map for zone: D:\EQGZI\zones\home\out\home
